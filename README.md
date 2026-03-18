@@ -45,14 +45,60 @@ AI & Machine Learning Enthusiast | MERN Stack Developer 🚀
 
 ## 🛠️ Tech Stack
 
+### 👨‍💻 Programming Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,express,mongodb,mysql,html,css,tailwind,git" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js" />
+</p>
+
+### 🌐 Web Development (MERN)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
+</p>
+
+### 🎨 Frontend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,tailwind" />
+</p>
+
+### 🧠 AI / ML & Data Science
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
+</p>
+
+### 🛢️ Databases
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### ⚙️ Tools & Platforms
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
 ## 🏆 Achievements & Badges
 
+### 🥇 Codolio Profile Badges
+<p align="center">
+<a href="https://codolio.com/profile/shiva458">
+  <img src="https://img.shields.io/badge/View%20My%20Codolio%20Profile-00C853?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+</p>
+
+<!-- OPTIONAL: If Codolio provides badge images, paste them like this -->
+<!--
+<p align="center">
+  <img src="YOUR_BADGE_LINK_1" />
+  <img src="YOUR_BADGE_LINK_2" />
+</p>
+-->
+
+### 🏅 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rajawatshivpratap46&theme=algolia&no-frame=true&row=1&column=6" />
 </p>
