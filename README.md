@@ -90,21 +90,30 @@ AI & Machine Learning Enthusiast | MERN Stack Developer 🚀
 </a>
 </p>
 
-<!-- OPTIONAL: If Codolio provides badge images, paste them like this -->
-<!--
+---
+
+### 💻 Coding Profiles
+
 <p align="center">
-  <img src="YOUR_BADGE_LINK_1" />
-  <img src="YOUR_BADGE_LINK_2" />
+<a href="https://leetcode.com/u/shiva18021912/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/shiva18021912">
+  <img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/shiva18021912">
+  <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
 </p>
--->
+
+---
 
 ### 🏅 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rajawatshivpratap46&theme=algolia&no-frame=true&row=1&column=6" />
 </p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
