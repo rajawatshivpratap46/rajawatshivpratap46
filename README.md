@@ -81,7 +81,41 @@ AI & Machine Learning Enthusiast | MERN Stack Developer 🚀
 
 ---
 
-## 🏆 Achievements & Badges
+## 🏆 Achievements & Certifications
+
+### ☁️ AWS Educate Badges
+
+<p align="center">
+
+<a href="https://www.credly.com/badges/9c820c2a-196a-4b27-a38b-1297609f63bd/public_url">
+  <img src="https://images.credly.com/size/220x220/images/e51a8579-188d-4363-8ed1-12ad164ef57b/blob" />
+</a>
+
+</p>
+
+<p align="center">
+<b>AWS Educate – Introduction to Cloud 101</b><br>
+Validated knowledge of cloud computing fundamentals, AWS services, and architecture.
+</p>
+
+---
+
+### 🟠 Oracle Certifications
+
+<p align="center">
+
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=4CBA7AE8A0A646DB7527A09566FECE6EF168A61C657C528E4D16A8BD74F3B9BA">
+  <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25AICFAV1.png"/>
+</a>
+
+</p>
+
+<p align="center">
+<b>Oracle Certified Foundations Associate</b><br>
+Demonstrates understanding of database concepts, SQL, and Oracle technologies.
+</p>
+
+---
 
 ### 🥇 Codolio Profile Badges
 <p align="center">
