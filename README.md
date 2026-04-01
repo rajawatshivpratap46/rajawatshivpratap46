@@ -69,9 +69,16 @@ AI & Machine Learning Enthusiast | MERN Stack Developer 🚀
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
 </p>
 
-### 🛢️ Databases
+### 🛢️ Database & Monitoring
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=grafana,prometheus" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform" />
+<img src="https://skillicons.dev/icons?i=githubactions,linux" />
 </p>
 
 ### ⚙️ Tools & Platforms
@@ -79,7 +86,6 @@ AI & Machine Learning Enthusiast | MERN Stack Developer 🚀
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
----
 
 ## 🏆 Achievements & Certifications
 
