@@ -36,7 +36,7 @@ AI & Machine Learning Enthusiast | MERN Stack Developer 🚀
 - Tech Stack: React, Node.js, MongoDB, NLP  
 
 [![Live Demo](https://img.shields.io/badge/🌐_Visit_Live_Project-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-link.com)
-[![GitHub Repo](https://img.shields.io/badge/📂_View_GitHub_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/project)
+[![GitHub Repo](https://img.shields.io/badge/📂_View_GitHub_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajawatshivpratap46/Medicinal_herbal_chatbot-main)
 
 
 ### 🏥 Doctor Appointment Booking System
@@ -44,8 +44,8 @@ AI & Machine Learning Enthusiast | MERN Stack Developer 🚀
 - Authentication, doctor booking and scheduling system  
 - Tech Stack: React, Node.js, Express, MongoDB  
 
-[![Live Demo](https://img.shields.io/badge/🌐_Visit_Live_Project-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-link.com)
-[![GitHub Repo](https://img.shields.io/badge/📂_View_GitHub_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/project)
+[![Live Demo](https://img.shields.io/badge/🌐_Visit_Live_Project-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://prescripto-ashen.vercel.app/)
+[![GitHub Repo](https://img.shields.io/badge/📂_View_GitHub_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajawatshivpratap46/prescripto)
 
 
 ### 💬 Real-Time Chat Application
@@ -57,7 +57,7 @@ Tech Stack:
 React, Node.js, Express, MongoDB, Socket.io  
 
 [![Live Demo](https://img.shields.io/badge/🌐_Visit_Live_Project-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-link.com)
-[![GitHub Repo](https://img.shields.io/badge/📂_View_GitHub_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/project)
+[![GitHub Repo](https://img.shields.io/badge/📂_View_GitHub_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajawatshivpratap46/Chatting-Application)
 
 ---
 
