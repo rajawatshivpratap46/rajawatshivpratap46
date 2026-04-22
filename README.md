@@ -22,10 +22,10 @@ AI & Machine Learning Enthusiast | MERN Stack Developer 🚀
 
 - 🎓 B.Tech CSE (AI & ML) @ Amity University  
 - 🤖 Passionate about **AI, NLP & Generative AI**  
-- 💻 Building **AI-powered apps & scalable systems**  
-- 🚀 Solved **500+ DSA problems**  
+- 💻 Building **AI-powered apps & scalable systems using MERN Stack**  
+- 🌍 Active **Open Source Contributor** contributing to developer tools and AI-based projects on GitHub  
+- 🚀 Solved **500+ DSA problems** across coding platforms  
 - 🏆 AIR 3986 – TCS CodeVita  
-
 ---
 
 ## 🚀 Projects
@@ -33,13 +33,31 @@ AI & Machine Learning Enthusiast | MERN Stack Developer 🚀
 ### 🌿 Medicinal Herbal AI Chatbot
 - NLP + LLM based chatbot with smart recommendations  
 - Voice input + chat history  
+- Tech Stack: React, Node.js, MongoDB, NLP  
+
+[![Live Demo](https://img.shields.io/badge/🌐_Visit_Live_Project-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-link.com)
+[![GitHub Repo](https://img.shields.io/badge/📂_View_GitHub_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/project)
+
 
 ### 🏥 Doctor Appointment Booking System
 - Full-stack MERN healthcare system  
-- Auth, booking, payments  
+- Authentication, doctor booking and scheduling system  
+- Tech Stack: React, Node.js, Express, MongoDB  
 
-### 🛒 E-commerce Platform
-- Dynamic MERN-based shopping platform  
+[![Live Demo](https://img.shields.io/badge/🌐_Visit_Live_Project-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-link.com)
+[![GitHub Repo](https://img.shields.io/badge/📂_View_GitHub_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/project)
+
+
+### 💬 Real-Time Chat Application
+- Real-time messaging application with authentication  
+- Socket-based instant communication  
+- Responsive UI for seamless chatting  
+
+Tech Stack:
+React, Node.js, Express, MongoDB, Socket.io  
+
+[![Live Demo](https://img.shields.io/badge/🌐_Visit_Live_Project-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-link.com)
+[![GitHub Repo](https://img.shields.io/badge/📂_View_GitHub_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/project)
 
 ---
 
