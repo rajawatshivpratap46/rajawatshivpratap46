@@ -56,7 +56,7 @@ AI & Machine Learning Enthusiast | MERN Stack Developer 🚀
 Tech Stack:
 React, Node.js, Express, MongoDB, Socket.io  
 
-[![Live Demo](https://img.shields.io/badge/🌐_Visit_Live_Project-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-link.com)
+[![Live Demo](https://img.shields.io/badge/🌐_Visit_Live_Project-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](chatting-application-frontend-ebon.vercel.app)
 [![GitHub Repo](https://img.shields.io/badge/📂_View_GitHub_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajawatshivpratap46/Chatting-Application)
 
 ---
