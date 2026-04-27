@@ -6,7 +6,7 @@ AI & Machine Learning Enthusiast | MERN Stack Developer 🚀
 
 <!-- 🌐 Portfolio Link (Top Highlight) -->
 <p align="center">
-🌐 <a href="https://your-portfolio-link.com"><b>Visit My Portfolio</b></a>
+🌐 <a href="https://portfolio-wzep-a4b3u55yw-shivkumar-sigh-rajawats-projects.vercel.app/#_"><b>Visit My Portfolio</b></a>
 </p>
 
 <!-- 🔥 Portfolio Button -->
@@ -39,7 +39,6 @@ AI & Machine Learning Enthusiast | MERN Stack Developer 🚀
 - 🌍 Active **Open Source Contributor** contributing to developer tools and AI-based projects on GitHub  
 - 🚀 Solved **500+ DSA problems** across coding platforms  
 - 🏆 AIR 3986 – TCS CodeVita
-- 🌐 Portfolio: https://your-portfolio-link.com
 ---
 
 ## 🚀 Projects
