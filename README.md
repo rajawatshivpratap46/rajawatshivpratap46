@@ -4,6 +4,18 @@
 AI & Machine Learning Enthusiast | MERN Stack Developer 🚀
 </h3>
 
+<!-- 🌐 Portfolio Link (Top Highlight) -->
+<p align="center">
+🌐 <a href="https://your-portfolio-link.com"><b>Visit My Portfolio</b></a>
+</p>
+
+<!-- 🔥 Portfolio Button -->
+<p align="center">
+<a href="https://your-portfolio-link.com">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer+in+Progress;MERN+Stack+Developer;NLP+%7C+LLMs+%7C+Generative+AI;500%2B+DSA+Problems+Solved&center=true&width=500&height=45">
 </p>
@@ -18,6 +30,7 @@ AI & Machine Learning Enthusiast | MERN Stack Developer 🚀
 
 ---
 
+
 ## 🧠 About Me
 
 - 🎓 B.Tech CSE (AI & ML) @ Amity University  
@@ -25,7 +38,8 @@ AI & Machine Learning Enthusiast | MERN Stack Developer 🚀
 - 💻 Building **AI-powered apps & scalable systems using MERN Stack**  
 - 🌍 Active **Open Source Contributor** contributing to developer tools and AI-based projects on GitHub  
 - 🚀 Solved **500+ DSA problems** across coding platforms  
-- 🏆 AIR 3986 – TCS CodeVita  
+- 🏆 AIR 3986 – TCS CodeVita
+- 🌐 Portfolio: https://your-portfolio-link.com
 ---
 
 ## 🚀 Projects
