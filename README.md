@@ -38,7 +38,7 @@ AI & Machine Learning Enthusiast | MERN Stack Developer 🚀
 - 💻 Building **AI-powered apps & scalable systems using MERN Stack**  
 - 🌍 Active **Open Source Contributor** contributing to developer tools and AI-based projects on GitHub  
 - 🚀 Solved **500+ DSA problems** across coding platforms  
-- 🏆 AIR 3986 – TCS CodeVita
+- 🏆 AIR 7712 – TCS CodeVita
 ---
 
 ## 🚀 Projects
@@ -150,6 +150,23 @@ Validated knowledge of cloud computing fundamentals, AWS services, and architect
 <p align="center">
 <b>Oracle Certified Foundations Associate</b><br>
 Demonstrates understanding of database concepts, SQL, and Oracle technologies.
+</p>
+
+---
+
+### 🏆 TCS CodeVita Season 13
+
+<p align="center">
+
+<a href="TCS_CodeVita_Season13_shiva_12.pdf">
+  <img src="https://img.shields.io/badge/TCS_CodeVita-Global_Rank_7712-blue?style=for-the-badge&logo=tata&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+<b>TCS CodeVita Season 13 – Global Rank 7712</b><br>
+Secured Global Rank 7712 in one of the world's largest competitive programming contests organized by Tata Consultancy Services (TCS). Demonstrated strong problem-solving, competitive programming, and algorithmic skills.
 </p>
 
 ---
