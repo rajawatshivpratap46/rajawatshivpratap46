@@ -6,12 +6,12 @@ AI & Machine Learning Enthusiast | MERN Stack Developer 🚀
 
 <!-- 🌐 Portfolio Link (Top Highlight) -->
 <p align="center">
-🌐 <a href="https://portfolio-wzep-a4b3u55yw-shivkumar-sigh-rajawats-projects.vercel.app/"><b>Visit My Portfolio</b></a>
+🌐 <a href="https://portfolio-wzep-rlcnzeg1s-shivkumar-sigh-rajawats-projects.vercel.app"><b>Visit My Portfolio</b></a>
 </p>
 
 <!-- 🔥 Portfolio Button -->
 <p align="center">
-<a href="https://your-portfolio-link.com">
+<a href="https://portfolio-wzep-rlcnzeg1s-shivkumar-sigh-rajawats-projects.vercel.app">
   <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 </p>
